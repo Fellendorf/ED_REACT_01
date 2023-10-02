@@ -1,0 +1,12 @@
+.parent {
+    position: relative;
+    height: 0;
+}
+
+.child {
+    position: absolute;
+    left: 50%!important;
+    transform: translate(0, 300%);
+    transition: opacity 1s;
+    z-index: 100;
+}

@@ -1,0 +1,13 @@
+.description {
+    font-size: small;
+    line-height: 2.5ex;
+    /* height: 7.5ex; */
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.cardImg {
+    height: 25vh;
+    object-fit: cover;
+}

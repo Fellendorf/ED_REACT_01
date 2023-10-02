@@ -1,0 +1,8 @@
+.inputError {
+    color: red;
+    padding: 0 10px;
+    height: 25px;
+    font-size: small;
+}
+
+/*TODO: add "caution" icon before message*/
